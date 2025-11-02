@@ -1,4 +1,4 @@
-https://balajiinfo8.github.io/Live-Character-Count/
+
 Project Title
 Live Character Count (Excluding Spaces)
 
